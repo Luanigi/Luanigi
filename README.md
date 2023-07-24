@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Luanigi
 - 🌱 Web dev
+- 📊 Tiktok: dardania.facts
 - 📫Contact me: lurro@icloud.com
 
 <!---
