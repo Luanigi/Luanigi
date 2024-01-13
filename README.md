@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luanigi
 - 🖥️ Web dev
 - 📊 Tiktok: dardania.facts
-- 📫Contact me: lurro@icloud.com
+- 📫Contact me: luan.ajeti08@icloud.com
 
 <!---
 Luanigi/Luanigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
