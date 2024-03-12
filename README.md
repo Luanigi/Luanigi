@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Luanigi
-- 🖥️ Web dev
-- 📊 Tiktok: dardania.facts
+- 🖥️ Fullstack Web Developer
 - 📫Contact me: luan.ajeti08@icloud.com
 
 <!---
